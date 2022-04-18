@@ -16,7 +16,7 @@
 - JavaScript Basics
 - VS Code
 - Git, GitHub
-- Adobe Photoshop, Cinema 4d
+- Adobe Photoshop, 3d visualisation programs 
 
 #### Code example:
 
