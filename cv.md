@@ -43,13 +43,13 @@
 Not yet, but wait a sec you will see
 #### Education
 - Cracow University of Technology (Architecture)
-- Udemy Jonas Schmedtmann Java Script course(in progress)
+- Udemy [Jonas Schmedtmann Java Script course](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648417#content)(in progress)
 - Codecademy: HTML course, JavaScript course, Learn CSS 
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 #### Languages
 - Belarusian(understand, but don't speak),Rusian (native)
 - Polish (C2)
-- English(B1/B2)
+- English(B2)
 
 
 
