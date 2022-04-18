@@ -1,2 +1,2 @@
 # rsschool-cv
-this is the first project at the rs-school
+https://Gohicz.github.io/rsschool-cv/
