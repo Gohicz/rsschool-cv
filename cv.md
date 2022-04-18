@@ -47,9 +47,9 @@ Not yet, but wait a sec you will see
 - Codecademy: HTML course, JavaScript course, Learn CSS 
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 #### Languages
-- Belarusian,Rusian (native)
+- Belarusian(understand, but don't speak),Rusian (native)
 - Polish (C2)
-- English(B2)
+- English(B1/B2)
 
 
 
